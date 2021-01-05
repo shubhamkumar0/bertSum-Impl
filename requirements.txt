@@ -1,0 +1,4 @@
+Flask==1.1.1
+torch==1.7.1
+gunicorn==19.9.0
+bert-extractive-summarizer==0.6.1
